@@ -6,3 +6,4 @@ Este es un repo para conocer sobre GitHub!
 - Nico (Prácticas)
 - Gabriel Oliva
 - Rodrigo Pettinato
+- Matias Sesto
