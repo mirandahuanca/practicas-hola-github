@@ -7,3 +7,4 @@ Este es un repo para conocer sobre GitHub!
 - Gabriel Oliva
 - Rodrigo Pettinato
 - Matias Sesto
+- Miranda Huanca
