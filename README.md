@@ -5,3 +5,4 @@ Este es un repo para conocer sobre GitHub!
 - Vitalik
 - Nico (Prácticas)
 - Gabriel Oliva
+- Rodrigo Pettinato
